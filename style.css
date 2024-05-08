@@ -1,0 +1,78 @@
+header{
+	height: 200px;
+	width: 100%;
+	background-image: url(fujisakura.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	color: rgb(255,255,255);
+	text-align: center;
+}
+#paginakop{
+	padding-top: 110px;
+	padding-right: 400px;
+	font-family: impact, sans-serif;
+}
+main{
+	height: 800px;
+	text-align: center;
+}
+#mainhiroshima{
+	height: 300px;
+	text-align: center;
+}
+#mainkyoto{
+	height: 650px;
+	text-align: center;
+}
+#mainnara{
+	height: 300px;
+	text-align: center;
+}
+#maintokyo{
+	height: 1175px;
+	text-align: center;
+}
+#landkaart{
+	height: 734px;
+	width: 1527px;
+}
+.agenda{
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+}
+td, th{
+	padding: 10px 5px;
+	border: solid 2px;
+}
+.tabelafbeelding{
+	height: 100px;
+	width: 100px;
+}
+.tbd{
+	background-color: rgb(255,0,0);
+}
+#returnknop{
+	color: rgb(255,255,255);
+	background-color: rgb(0,0,0);
+	font-family: impact, sans-serif;
+	font-size: 20px;
+}
+#returnknop:hover{
+	color: rgb(255,255,0);
+	background-color: rgb(0,0,0);
+	font-family: impact, sans-serif;
+	font-size: 20px;
+}	
+#copyright_notice{
+	padding-top: 30px;
+}
+footer{
+	background-color: rgb(3, 73, 252);
+	font-family: impact, sans-serif;
+	font-size: 11;
+	color: rgb(255,255,255);
+	height: 75px;
+	width: 100%;
+	text-align: center;
+}
