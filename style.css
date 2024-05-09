@@ -9,7 +9,7 @@ header{
 }
 @media only screen and (max-width: 768px) {
 	#paginakop{
-		float: auto;
+		padding-top: 100px;
 	}
 }
 #paginakop{
