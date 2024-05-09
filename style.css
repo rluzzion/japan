@@ -9,7 +9,7 @@ header{
 }
 @media (min-width: 768px) {
 	header{
-		width: 200%;
+		width: 10%;
 	}
 }
 #paginakop{
@@ -83,6 +83,6 @@ footer{
 }
 @media (min-width: 768px) {
 	footer{
-		width: 200%;
+		width: 10%;
 	}
 }
