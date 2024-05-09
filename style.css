@@ -7,6 +7,11 @@ header{
 	color: rgb(255,255,255);
 	text-align: center;
 }
+@media (max-width: 768px) {
+	header{
+		width: 50%;
+	}
+}
 #paginakop{
 	padding-top: 110px;
 	padding-right: 400px;
@@ -75,4 +80,9 @@ footer{
 	height: 75px;
 	width: 100%;
 	text-align: center;
+}
+@media (max-width: 768px) {
+	footer{
+		width: 50%;
+	}
 }
