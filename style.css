@@ -7,9 +7,9 @@ header{
 	color: rgb(255,255,255);
 	text-align: center;
 }
-@media (max-width: 768px) {
+@media (min-width: 768px) {
 	header{
-		width: 25%;
+		width: 50%;
 	}
 }
 #paginakop{
@@ -81,8 +81,8 @@ footer{
 	width: 100%;
 	text-align: center;
 }
-@media (max-width: 768px) {
+@media (min-width: 768px) {
 	footer{
-		width: 25%;
+		width: 50%;
 	}
 }
