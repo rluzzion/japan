@@ -41,27 +41,13 @@ main{
 }
 #landkaart{
 	height: 734px;
-	width: 1527px;
-}
-@media only screen and (max-width: 768px) {
-	#landkaart{
-		height: 600px;
-		width: 600px;
-	}
+	width: 100%;
 }
 .agenda{
 	margin-left: auto;
 	margin-right: auto;
 	border-collapse: collapse;
-}
-@media only screen and (max-width: 768px) {
-	.agenda{
-		margin-left: auto;
-		margin-right: auto;
-		border-collapse: collapse;
-		height: 600px;
-		width: 600px;
-	}
+	width: 100%;
 }
 td, th{
 	padding: 10px 5px;
