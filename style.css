@@ -7,11 +7,6 @@ header{
 	color: rgb(255,255,255);
 	text-align: center;
 }
-@media only screen and (max-width: 768px) {
-	#paginakop{
-		padding-top: 100px;
-	}
-}
 #paginakop{
 	padding-top: 110px;
 	padding-right: 400px;
