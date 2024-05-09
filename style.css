@@ -12,6 +12,11 @@ header{
 	padding-right: 400px;
 	font-family: impact, sans-serif;
 }
+@media only screen and (max-width: 768px) {
+	#paginakop{
+		padding-top: 100px;
+	}
+}
 main{
 	height: 800px;
 	text-align: center;
