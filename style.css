@@ -41,13 +41,11 @@ main{
 }
 #landkaart{
 	height: 734px;
-	width: 100%;
 }
 .agenda{
 	margin-left: auto;
 	margin-right: auto;
 	border-collapse: collapse;
-	width: 100%;
 }
 td, th{
 	padding: 10px 5px;
